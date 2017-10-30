@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [29/Oct/2017:14:38:51 +0800] "GET / HTTP/1.1" 200 3575 http-bio-8080-exec-1 1278
+0:0:0:0:0:0:0:1 - - [29/Oct/2017:14:38:51 +0800] "GET /static/layui/layui.js HTTP/1.1" 304 - http-bio-8080-exec-2 14
+0:0:0:0:0:0:0:1 - - [29/Oct/2017:14:38:51 +0800] "GET /static/layui/css/layui.css HTTP/1.1" 304 - http-bio-8080-exec-3 9
+0:0:0:0:0:0:0:1 - - [29/Oct/2017:14:38:51 +0800] "GET /static/layui/lay/modules/element.js HTTP/1.1" 304 - http-bio-8080-exec-5 4
+0:0:0:0:0:0:0:1 - - [29/Oct/2017:14:38:51 +0800] "GET /static/layui/lay/modules/jquery.js HTTP/1.1" 304 - http-bio-8080-exec-6 3
+0:0:0:0:0:0:0:1 - - [29/Oct/2017:14:38:51 +0800] "GET /static/layui/font/iconfont.woff?v=213 HTTP/1.1" 304 - http-bio-8080-exec-7 4
+0:0:0:0:0:0:0:1 - - [29/Oct/2017:14:38:57 +0800] "GET /item/list HTTP/1.1" 200 2 http-bio-8080-exec-8 141
+0:0:0:0:0:0:0:1 - - [29/Oct/2017:14:40:30 +0800] "GET /item/list?pageIndex=1&&pageSize=10 HTTP/1.1" 200 2733 http-bio-8080-exec-2 52507
